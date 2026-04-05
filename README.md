@@ -1,7 +1,7 @@
   # Robot Line Follower 9 Sensor Infrared
 
 **Author:** Muhammad Reki (Semester 6)  
-**Project:** Praktikum Robotika Minggu 5  
+**Project:**Robotika  
 
 ## Deskripsi
 Project ini adalah simulasi dan implementasi robot line follower menggunakan 9 sensor infrared. Robot mengikuti garis otomatis menggunakan Arduino dan sensor infrared.  
